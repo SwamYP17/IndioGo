@@ -20,6 +20,7 @@ The combination of these technologies allowed me to create a functional and effi
 The Poject Structure is as follows:
 
 Project Structure
+
 flight-status-app/
 
 ├── frontend/

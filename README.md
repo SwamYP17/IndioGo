@@ -21,15 +21,28 @@ The Poject Structure is as follows:
 
 Project Structure
 flight-status-app/
+
 ├── frontend/
+
 │   ├── public/
+
 │   ├── src/
+
 │   │   ├── App.js
+
 │   │   ├── index.js
+
 │   │   ├── App.css
+
 │   ├── package.json
+
 ├── backend/
+
 │   ├── app.py
+
 │   ├── requirements.txt
+
 ├── database/
+
 │   ├── init_db.py
+
